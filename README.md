@@ -1,60 +1,52 @@
 # My-Reading
 
-# 📚 Marina's Digital Bookshelf
-
-A central repository to track my reading journey, review classics, and document my 2026 reading goals. 
-
----
 
 ## 📖 Currently Reading
-> **1984** by George Orwell
-> * **Progress:** ▓▓▓░░░░░░░ 30%
-> * **Started:** Feb 2026
-> * **Notes:** Exploring themes of surveillance and totalitarianism.
+> **Balcony of Fog** by Richars
+> * **Status:** 📖 Reading
+> * **Timeline:** Started Mar 1, 2026
 
 ---
 
-## 🎯 2026 Reading Goal: The Classics & Beyond
-**Goal:** 12 Books (1 per month) | **Progress:** 1 / 12 (8%)
-
-| Status | Book Title | Author | Genre/Tag |
+## 🗓️ 2026
+| Date Finished | Book Title | Author | Category |
 | :--- | :--- | :--- | :--- |
-| ✅ | The Great Gatsby | F. Scott Fitzgerald | Classic |
-| 📖 | 1984 | George Orwell | Dystopian |
-| ⏳ | The Price of Salt (Carol) | Patricia Highsmith | WLW / Classic |
-| ⏳ | The Sun Also Rises | Ernest Hemingway | Classic |
-| ⏳ | The Murder of Roger Ackroyd | Agatha Christie | Mystery |
-| ⏳ | The Castle | Franz Kafka | Absurdist |
-| ⏳ | Dune | Frank Herbert | Sci-Fi |
-| ⏳ | The Selfish Gene | Richard Dawkins | Science |
-| ⏳ | Neuromancer | William Gibson | Cyberpunk |
-| ⏳ | The Bell Jar | Sylvia Plath | Classic |
-| ⏳ | Frankenstein | Mary Shelley | Horror/Classic |
-| ⏳ | Surely You're Joking, Mr. Feynman! | Richard Feynman | Memoir |
+| *In Progress* | **Balcony of Fog** | Richars | Fantasy |
+| Feb 24, 2026 | **1984** | George Orwell | Dystopian |
+| Feb 10, 2026 | **The Great Gatsby** | F. Scott Fitzgerald | Classic |
+| Jan 22, 2026 | **Surely You're Joking, Mr. Feynman!** | Richard Feynman | STEM |
+| Jan 05, 2026 | **The Worlds I See** | Fei-Fei Li | AI / HCI |
+
+## 🗓️ 2025
+| Date Finished | Book Title | Author | Category |
+| :--- | :--- | :--- | :--- |
+| Dec 18, 2025 | **The Anxious Generation** | Jonathan Haidt | Psychology |
+| Dec 04, 2025 | **Co-Intelligence** | Ethan Mollick | AI / HCI |
+| Nov 21, 2025 | **Slow Productivity** | Cal Newport | Productivity |
+| Nov 05, 2025 | **The Coming Wave** | Mustafa Suleyman | Tech Policy |
+| Oct 19, 2025 | **Project Hail Mary** | Andy Weir | Sci-Fi |
+| Oct 02, 2025 | **Deep Work** | Cal Newport | Productivity |
+| Sep 15, 2025 | **The Seven Husbands of Evelyn Hugo** | Taylor Jenkins Reid | Fiction |
+| Sep 01, 2025 | **Atomic Habits** | James Clear | Productivity |
+| Aug 04, 2025 | **Chip War** | Chris Miller | Tech History |
+| Jul 20, 2025 | **The Design of Everyday Things** | Don Norman | Design / HCI |
+| Jul 05, 2025 | **Blueprints** | Marcus du Sautoy | STEM |
+| Jun 08, 2025 | **Funny Story** | Emily Henry | Romance |
+| May 25, 2025 | **Brief Answers to the Big Questions** | Stephen Hawking | STEM |
+| May 10, 2025 | **Hidden Wonders** | David Alderton | Nature |
+| Apr 28, 2025 | **The Mysterious Case of the Alperton Angels** | Janice Hallett | Mystery |
+| Mar 24, 2025 | **The Women** | Kristin Hannah | Historical |
+| Mar 10, 2025 | **《繁花》** | 金宇澄 | Fiction |
+| Feb 19, 2025 | **《置身事内：中国政府与经济发展》** | 兰小欢 | Economics |
+| Feb 05, 2025 | **《草木有灵》** | 汪曾祺 | Nature / Essay |
+| Jan 21, 2025 | **Yellowface** | R.F. Kuang | Satire |
+| Jan 07, 2025 | **《尘埃落定》** | 阿来 | Fiction |
+
+## 🗓️ 2024
+| Date Finished | Book Title | Author | Category |
+| :--- | :--- | :--- | :--- |
+| Dec 20, 2024 | **《数学之美》** | 吴军 | STEM |
+| Sep 18, 2024 | **《三体》** | 刘慈欣 | Sci-Fi |
+| Sep 04, 2024 | **The Selfish Gene** | Richard Dawkins | STEM |
 
 ---
-
-## 📜 Reading History
-
-### 2025: Building the Foundation
-* **Project Hail Mary** by Andy Weir (Highly Recommended)
-* **Atomic Habits** by James Clear
-* **The Anxious Generation** by Jonathan Haidt
-* **Co-Intelligence** by Ethan Mollick
-* **The Almanac of Naval Ravikant** by Eric Jorgenson
-
-### Sep 2024 – Dec 2024: The Kickoff
-* *Add books here from your first semester at UCLA!*
-* **Nexus** by Yuval Noah Harari (Queued)
-* **The Wager** by David Grann (Queued)
-
----
-
-## 🏷️ Personal Categories
-* **[WLW]**: Women Loving Women literature (e.g., *The Price of Salt*).
-* **[STEM]**: Science and technology-focused reads (e.g., *Surely You're Joking, Mr. Feynman!*).
-* **[HCI]**: Books related to Human-Computer Interaction and AI ethics.
-
----
-
-> "A room without books is like a body without a soul." — Cicero
