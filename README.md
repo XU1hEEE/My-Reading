@@ -1,4 +1,4 @@
-# My-Reading
+
 
 
 ## 📖 Currently Reading
@@ -8,9 +8,9 @@
 
 ---
 
+## 📕 Archive
 | Date Finished | Book Title | Author | Category |
 | :--- | :--- | :--- | :--- |
-| *In Progress* | **Balcony of Fog** | Richars | Fantasy |
 | Feb 10, 2026 | **The Great Gatsby** | F. Scott Fitzgerald | Classic |
 | Jan 22, 2026 | **Surely You're Joking, Mr. Feynman!** | Richard Feynman | STEM |
 | Jan 05, 2026 | **The Worlds I See** | Fei-Fei Li | AI / HCI |
