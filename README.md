@@ -8,17 +8,12 @@
 
 ---
 
-## 🗓️ 2026
 | Date Finished | Book Title | Author | Category |
 | :--- | :--- | :--- | :--- |
 | *In Progress* | **Balcony of Fog** | Richars | Fantasy |
 | Feb 10, 2026 | **The Great Gatsby** | F. Scott Fitzgerald | Classic |
 | Jan 22, 2026 | **Surely You're Joking, Mr. Feynman!** | Richard Feynman | STEM |
 | Jan 05, 2026 | **The Worlds I See** | Fei-Fei Li | AI / HCI |
-
-## 🗓️ 2025
-| Date Finished | Book Title | Author | Category |
-| :--- | :--- | :--- | :--- |
 | Dec 18, 2025 | **The Anxious Generation** | Jonathan Haidt | Psychology |
 | Dec 04, 2025 | **Co-Intelligence** | Ethan Mollick | AI / HCI |
 | Nov 21, 2025 | **Slow Productivity** | Cal Newport | Productivity |
@@ -40,10 +35,6 @@
 | Feb 05, 2025 | **《草木有灵》** | 汪曾祺 | Nature / Essay |
 | Jan 21, 2025 | **Yellowface** | R.F. Kuang | Satire |
 | Jan 07, 2025 | **《尘埃落定》** | 阿来 | Fiction |
-
-## 🗓️ 2024
-| Date Finished | Book Title | Author | Category |
-| :--- | :--- | :--- | :--- |
 | Dec 20, 2024 | **《数学之美》** | 吴军 | STEM |
 | Sep 18, 2024 | **《三体》** | 刘慈欣 | Sci-Fi |
 | Sep 04, 2024 | **The Selfish Gene** | Richard Dawkins | STEM |
