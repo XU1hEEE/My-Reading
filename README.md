@@ -2,15 +2,16 @@
 
 
 ## 📖 Currently Reading
-> **Balcony of Fog** by Richars
+> **Co-Intelligence : Living and Working with AI** by Ethan Mollick
 > * **Status:** 📖 Reading
-> * **Timeline:** Started Mar 1, 2026
+> * **Timeline:** Started Mar 8, 2026
 
 ---
 
 ## 📕 Archive
 | Date Finished | Book Title | Author | Category |
 | :--- | :--- | :--- | :--- |
+| Mar 08, 2026 | **Balcony of Fog** | Rich Shapero | Sci-Fi / Fantasy |
 | Feb 10, 2026 | **The Great Gatsby** | F. Scott Fitzgerald | Classic |
 | Jan 22, 2026 | **Surely You're Joking, Mr. Feynman!** | Richard Feynman | STEM |
 | Jan 05, 2026 | **The Worlds I See** | Fei-Fei Li | AI / HCI |
