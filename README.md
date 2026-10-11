@@ -2,15 +2,20 @@
 
 
 ## 📖 Currently Reading
-> **Co-Intelligence : Living and Working with AI** by Ethan Mollick
+> **The Starting Point**
 > * **Status:** 📖 Reading
-> * **Timeline:** Started Mar 8, 2026
+> * **Timeline:** Started Sep 28, 2026
 
 ---
 
 ## 📕 Archive
 | Date Finished | Book Title | Author | Category |
 | :--- | :--- | :--- | :--- |
+| Sep 27, 2026 | **Tomorrow, and Tomorrow, and Tomorrow** | Gabrielle Zevin | Fiction |
+| Aug 10, 2026 | **The Man Who Knew Infinity** | Robert Kanigel | STEM / Biography |
+| Jul 22, 2026 | **The Creative Act** | Rick Rubin | Creativity |
+| Jun 03, 2026 | **How to Make the World Add Up** | Tim Harford | Data / Statistics |
+| Mar 21, 2026 | **Co-Intelligence: Living and Working with AI** | Ethan Mollick | AI / HCI |
 | Mar 08, 2026 | **Balcony of Fog** | Rich Shapero | Sci-Fi / Fantasy |
 | Feb 10, 2026 | **The Great Gatsby** | F. Scott Fitzgerald | Classic |
 | Jan 22, 2026 | **Surely You're Joking, Mr. Feynman!** | Richard Feynman | STEM |
