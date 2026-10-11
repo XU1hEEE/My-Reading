@@ -2,9 +2,9 @@
 
 
 ## 📖 Currently Reading
-> **The Starting Point**
-> * **Status:** 📖 Reading
-> * **Timeline:** Started Sep 28, 2026
+> **The Alignment Problem** — Brian Christian  
+> * **Status:** 📖 Reading  
+> * **Timeline:** Started Oct 3, 2026
 
 ---
 
